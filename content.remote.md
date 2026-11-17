@@ -1,0 +1,39 @@
+<!--
+  This file is your story, written in Markdown. Plain paragraphs, headings
+  (## Heading), *italics*, **bold**, links and lists work as usual. Photos,
+  charts, videos and other media go inside code blocks (three backticks on a
+  line, the embed, three backticks on a line). README.md explains every option.
+  This note is a hidden comment and never appears on the website.
+-->
+
+&nbsp;
+
+Here is an example of my website.
+
+&nbsp;
+
+Start writing your story here. Replace this paragraph with your own words. Everything you type in this file appears in the reading column below the opener, and the title, tagline and byline come from settings.toml.
+
+&nbsp;
+
+```
+embed: pullquote
+cite: Someone you interviewed
+
+A memorable sentence from your reporting, pulled out of the story so it stands on its own.
+```
+
+A code block like the one above is how you place a pull quote, photo, chart, video, timeline, map or pop-up in the story. Text before it and after it flows around the media, so write your paragraphs, drop in a code block wherever an embed belongs, and keep writing. The README lists every kind of embed and its options, and the demo story shows them all in action.
+
+&nbsp;
+
+**Adding Embed Codes (Example)**
+
+```
+size: text
+alt: YouTube video from the UC Berkekley School of Journalism
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHWlqC8DMps?si=OWXXkIyizbsf1Lpf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+&nbsp;
+
